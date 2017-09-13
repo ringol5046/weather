@@ -19,5 +19,8 @@
   "dependencies": {
     "axios": "^0.16.2",
     "yargs": "^8.0.2"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.0.0"
   }
 }
